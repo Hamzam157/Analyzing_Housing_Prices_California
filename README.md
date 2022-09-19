@@ -1,4 +1,4 @@
-# Analyzing_Housing_Prices_California
+# Analyzing Housing Prices in California
 
 1)Trained the Model using Random Forest Regressor
 
