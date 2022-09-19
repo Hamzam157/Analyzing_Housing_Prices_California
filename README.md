@@ -1,4 +1,6 @@
-# Analyzing Housing Prices in California   (Please go through my provided Jupyter Noteebok in this repo to see each step in detail)
+# Analyzing Housing Prices in California   
+
+#Please go through my provided Jupyter Noteebok in this repo to see each step in detail
 
 1)Trained the Model using Random Forest Regressor
 
