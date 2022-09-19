@@ -1,6 +1,5 @@
 # Analyzing Housing Prices in California   
 
-#Please go through my provided Jupyter Noteebok in this repo to see each step in detail
 
 1)Trained the Model using Random Forest Regressor
 
@@ -20,5 +19,8 @@
 Heat Map (Income of the owner vs Ocean Proximity of the House) {Correlating the relationship}
 
 ![image](https://user-images.githubusercontent.com/113868226/190939057-da85ddf8-3dae-4433-9406-3c114dce157d.png)
+
+
+Please go through my provided Jupyter Noteebok in this repo to see each step in detail
 
 
