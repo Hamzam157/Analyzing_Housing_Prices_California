@@ -21,6 +21,5 @@ Heat Map (Income of the owner vs Ocean Proximity of the House) {Correlating the 
 ![image](https://user-images.githubusercontent.com/113868226/190939057-da85ddf8-3dae-4433-9406-3c114dce157d.png)
 
 
-Please go through the Jupyter Notebook in this repo in order to see each step in detail
 
 
